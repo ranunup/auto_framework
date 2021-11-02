@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dc8a75e-6f85-4754-b172-243e1fdda5d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20JQJEWFeO8IGaxH8OPRu1krLJ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/testng" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.42152023" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\auto_framework\src\test\testng" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Projects/auto_framework/src/test/testng/FillFormsE2E.xml">
+    <configuration name="C:/Projects/auto_framework/src/test/testng/FakePurchaseTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="auto_framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/testng/FakePurchaseTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Projects/auto_framework/src/test/testng/FillFormsE2E.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="auto_framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/testng/FillFormsE2E.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Projects/auto_framework/src/test/testng/LoginE2E.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="auto_framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/testng/LoginE2E.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginEndToEnd.executeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="auto_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="voss.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="voss.gui" />
+      <option name="MAIN_CLASS_NAME" value="voss.gui.LoginEndToEnd" />
+      <option name="METHOD_NAME" value="executeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ndoda/IdeaProjects/auto_framework/src/test/testng/UltimeqaE2E.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="auto_framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/testng/UltimeqaE2E.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Projects/auto_framework/src/test/testng/FillFormsE2E.xml" />
+        <item itemvalue="TestNG.C:/Projects/auto_framework/src/test/testng/LoginE2E.xml" />
+        <item itemvalue="TestNG.C:/Projects/auto_framework/src/test/testng/FakePurchaseTest.xml" />
+        <item itemvalue="TestNG./Users/ndoda/IdeaProjects/auto_framework/src/test/testng/UltimeqaE2E.xml" />
+        <item itemvalue="TestNG.LoginEndToEnd.executeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dc8a75e-6f85-4754-b172-243e1fdda5d4" name="Default Changelist" comment="" />
+      <created>1635760137026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635760137026</updated>
+      <workItem from="1635855530062" duration="7451000" />
+      <workItem from="1635875875997" duration="11541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="186" key="#Project_Structure" timestamp="1635855657531">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="186" key="#Project_Structure/0.0.1920.1050/1920.316.1366.738@0.0.1920.1050" timestamp="1635855657531" />
+    <state x="487" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1635863752838">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="487" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1635863752838" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1635885548704">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.316.1366.738@0.0.1920.1050" timestamp="1635860305843" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1635885548704" />
+    <state width="1398" height="385" key="GridCell.Tab.0.bottom/1440.304.1366.768/0.0.1440.855@0.0.1440.855" timestamp="1635849443759" />
+    <state width="1293" height="385" key="GridCell.Tab.0.bottom/1440.327.1366.745/0.23.1440.832@0.23.1440.832" timestamp="1635854740714" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1635885548704">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.0.center/0.0.1920.1050/1920.316.1366.738@0.0.1920.1050" timestamp="1635860305843" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1635885548704" />
+    <state width="1398" height="385" key="GridCell.Tab.0.center/1440.304.1366.768/0.0.1440.855@0.0.1440.855" timestamp="1635849443755" />
+    <state width="1293" height="385" key="GridCell.Tab.0.center/1440.327.1366.745/0.23.1440.832@0.23.1440.832" timestamp="1635854740712" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1635885548704">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.0.left/0.0.1920.1050/1920.316.1366.738@0.0.1920.1050" timestamp="1635860305843" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1635885548704" />
+    <state width="1398" height="385" key="GridCell.Tab.0.left/1440.304.1366.768/0.0.1440.855@0.0.1440.855" timestamp="1635849443751" />
+    <state width="1293" height="385" key="GridCell.Tab.0.left/1440.327.1366.745/0.23.1440.832@0.23.1440.832" timestamp="1635854740711" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1635885548704">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="366" key="GridCell.Tab.0.right/0.0.1920.1050/1920.316.1366.738@0.0.1920.1050" timestamp="1635860305843" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1635885548704" />
+    <state width="1398" height="385" key="GridCell.Tab.0.right/1440.304.1366.768/0.0.1440.855@0.0.1440.855" timestamp="1635849443757" />
+    <state width="1293" height="385" key="GridCell.Tab.0.right/1440.327.1366.745/0.23.1440.832@0.23.1440.832" timestamp="1635854740713" />
+    <state x="269" y="69" key="SettingsEditor" timestamp="1635855634741">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="269" y="69" key="SettingsEditor/0.0.1920.1050/1920.316.1366.738@0.0.1920.1050" timestamp="1635855634741" />
+    <state x="202" y="78" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1635760210248" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1635797660765">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/1440.327.1366.745/0.23.1440.832@0.23.1440.832" timestamp="1635797660765" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1635839086415">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/1440.304.1366.768/0.0.1440.855@0.0.1440.855" timestamp="1635839086415" />
+    <state x="358" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1635852811526">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state x="358" y="160" width="670" height="676" key="search.everywhere.popup/1440.304.1366.768/0.0.1440.855@0.0.1440.855" timestamp="1635852811526" />
+    <state x="358" y="179" key="search.everywhere.popup/1440.327.1366.745/0.23.1440.832@0.23.1440.832" timestamp="1635802905476" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+{
+  "browserType": "chrome",
+  "testUrl": "https://www.ultimateqa.com/automation/",
+  "imagePath": "src/screenshots",
+  "ultiMeqaUName": "ranunup@gmail.com",
+  "ultimeqaPass": "Phum1@n!"
+}
