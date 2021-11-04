@@ -1,5 +1,8 @@
 package voss.helpers;
 
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 import voss.actions.PageActions;
@@ -13,12 +16,27 @@ public abstract class CommonMethods {
     protected PageActions actions = new PageActions();
     protected ConfigManager conf = new ConfigManager();
     protected boolean proceedTest = false;
+    protected ExtentReports reports;
+    ExtentSparkReporter htmlReporter;
+    protected ExtentTest extentTest;
 
     // does the necessary steps to initialize a test
-    protected void initTest() {
+    protected void initTest(String testName) {
         JSONObject jsonObject = readJSONFile("src/main/resources/config.json");
         conf.getConfigManager(jsonObject);
-        actions.startDriver(conf.getBrowserType());
+        actions.startDriver(conf);
+        initReporter(testName);
+    }
+
+    private void initReporter(String testName) {
+        htmlReporter = new ExtentSparkReporter(conf.getReportPath() + "/" + Utils.getTodayDateWithTime("yyyyMMddHHmmss") + "_" + testName + ".html");
+        reports = new ExtentReports();
+        reports.attachReporter(htmlReporter);
+        extentTest = reports.createTest(testName);
+    }
+
+    protected void logSuccessExtentStep(String testStep) {
+        extentTest.pass(testStep);
     }
 
     protected boolean navigateToHomePage() {

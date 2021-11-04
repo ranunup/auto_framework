@@ -2,9 +2,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="Ultimeqa Test Suite">
-    <test name="Fill Forms End to End Test" enabled="true">
+    <test name="Fill Forms Test" enabled="true">
         <classes>
-            <class name="voss.gui.FillFormsEndToEnd"></class>
+            <class name="voss.gui.FillFormsTest"/>
         </classes>
     </test>
 </suite>

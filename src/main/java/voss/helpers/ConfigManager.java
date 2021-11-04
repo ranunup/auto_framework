@@ -7,7 +7,8 @@ public class ConfigManager {
     private String username;
     private String password;
     private String testUrl;
-    private String imagePath;
+    private String reportPath;
+    private String resourcePath;
 
     public String getBrowserType() {
         return browserType;
@@ -17,19 +18,20 @@ public class ConfigManager {
         return testUrl;
     }
 
-    public String getImagePath() {
-        return imagePath;
-    }
-
     public String getUsername() { return username; }
 
     public String getPassword() { return password; }
+
+    public String getReportPath() { return reportPath; }
+
+    public String getResourcePath() { return resourcePath; }
 
     public void getConfigManager(JSONObject jsonObject) {
         browserType = jsonObject.getString("browserType");
         username = jsonObject.getString("ultiMeqaUName");
         password = jsonObject.getString("ultimeqaPass");
         testUrl = jsonObject.getString("testUrl");
-        imagePath = jsonObject.getString("imagePath");
+        reportPath = jsonObject.getString("reportPath");
+        resourcePath = jsonObject.getString("resourcePath");
     }
 }

@@ -4,7 +4,7 @@
 <suite name="Ultimeqa Test Suite">
     <test name="Fake Purchase Test" enabled="true">
         <classes>
-            <class name="voss.gui.FakePuchaseTest"></class>
+            <class name="voss.gui.FakePurchaseTest"/>
         </classes>
     </test>
 </suite>

@@ -1,7 +1,8 @@
 {
   "browserType": "chrome",
   "testUrl": "https://www.ultimateqa.com/automation/",
-  "imagePath": "src/screenshots",
+  "reportPath": "src/reports",
+  "resourcePath": "src/main/resources",
   "ultiMeqaUName": "ranunup@gmail.com",
   "ultimeqaPass": "Phum1@n!"
 }
